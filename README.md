@@ -1,1 +1,2 @@
-# Shop client part of the store
+# Shop 
+server part of the store 
