@@ -1,0 +1,17 @@
+[
+  {
+    "name": "mercedes",
+    "price": 1,
+    "count": 90
+  },
+  {
+    "name": "audi",
+    "price": 49,
+    "count": 2
+  },
+  {
+    "name": "BMW",
+    "price": 1230,
+    "count": 2
+  }
+]
